@@ -5,8 +5,10 @@ The Oracle Secure backup cloud module installation file does not come come with 
 
 # Usage
 1. Download the Oracle Secure Backup Cloud Module from OTN
-2. Extact it into stage area
+2. Extact it into a stage area
 3. Download this script to the same stage area
-4. run it ./osbcm_install.sh and provide the prameters according to the prompts
+4. Run it `./osbcm_install.sh `
+5. Provide the prameters according to the prompts
+
 
 
